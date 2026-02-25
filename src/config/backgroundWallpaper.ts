@@ -71,7 +71,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "Hello, I'm qinhao",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
@@ -108,15 +108,15 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 			text: {
 				// 桌面端要显示的来源文本
-				desktop: "Pixiv - 晚晚喵",
+				desktop: "返回我的主页",
 				// 移动端要显示的来源文本
-				mobile: "Pixiv - KiraraShss",
+				mobile: "返回我的主页",
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接
-				desktop: "https://www.pixiv.net/users/108801776",
+				desktop: "https://qinhao.cn",
 				// 移动端原始艺术品或艺术家页面的 URL 链接
-				mobile: "https://www.pixiv.net/users/42715864",
+				mobile: "https://qinhao.cn",
 			},
 		},
 		// 横幅导航栏配置
