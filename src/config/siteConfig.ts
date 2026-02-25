@@ -7,7 +7,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "秦浩博客",
 
 	// 站点副标题
 	subtitle: "Demo site",
